@@ -1,3 +1,5 @@
+#   Código no colab aqui: https://colab.research.google.com/drive/1pO9aJPCQtb0y2wzsHjsQT9gZkaKBcZfI
+
 print('  >>SISTEMA DE COMPRAS ONLINE<<\n')
 
 #   Declaração de funções antes do início do código principal
